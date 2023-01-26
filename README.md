@@ -3,7 +3,7 @@
 
 # This project is made by Arin Paliwal
 
-![Screenshot of the webpage](https://drive.google.com/file/d/1_xSHEH3VLDfguasIUAsX8OoS0Xt7c7R5/view?usp=sharing)
+![Screenshot of the webpage](https://drive.google.com/uc?id=1_xSHEH3VLDfguasIUAsX8OoS0Xt7c7R5)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
